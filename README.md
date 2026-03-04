@@ -1,4 +1,4 @@
-AI Movie Information Extractor is a Streamlit-based web application 
+#AI Movie Information Extractor is a Streamlit-based web application 
 that uses Mistral AI (LLM) to extract structured movie metadata from 
 unstructured text paragraphs.
 
