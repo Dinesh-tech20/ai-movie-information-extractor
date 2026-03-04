@@ -1,24 +1,13 @@
-#AI Movie Information Extractor is a Streamlit-based web application 
-that uses Mistral AI (LLM) to extract structured movie metadata from 
-unstructured text paragraphs.
+# 🎬 AI Movie Information Extractor
 
-Simply paste any movie description and the app will automatically 
-extract and display:
+AI Movie Information Extractor is a Streamlit-based web application that uses Mistral AI (LLM) to extract structured movie metadata from unstructured text paragraphs.
 
-🎬 Movie Title
-📅 Release Year
-🎭 Genre
-🎥 Director
-🌟 Main Cast
-📍 Setting/Location
-📖 Plot
-💡 Themes
-⭐ Ratings
-✨ Notable Features
-📝 Short Summary
+Simply paste any movie description and the app will automatically extract and display:
 
-Built with:
-- Streamlit
-- LangChain
-- Mistral AI
-- Python
+🎬 Movie Title | 📅 Release Year | 🎭 Genre | 🎥 Director | 🌟 Main Cast | 📍 Setting/Location | 📖 Plot | 💡 Themes | ⭐ Ratings | ✨ Notable Features | 📝 Short Summary
+
+## 🛠️ Built With
+* Streamlit
+* LangChain
+* Mistral AI
+* Python
